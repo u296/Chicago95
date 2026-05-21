@@ -1,0 +1,19 @@
+{
+	"KPackageStructure": "Plasma/LookAndFeel",
+	"KPlugin": {
+		"Authors": [
+			{
+				"Email": "",
+				"Name": "Grassmunk"
+			}
+		],
+		"Category":"KDE splashscreen",
+		"Description":"chicago95 by Grassmunk",
+		"Id": "chicago95.splashscreen",
+		"License": "GPLv3",
+		"Name": "chicago95.splashscreen",
+		"Website":"https://github.com/u296/Chicago95"
+	},
+	"Keywords":"Desktop;Workspcae;Appearance;Look and Feel;Logout;Suspend;Shutdown;Hibernate;",
+	"X-Plasma-APIVersion": "2"
+}
