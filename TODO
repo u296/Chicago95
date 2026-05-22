@@ -89,7 +89,7 @@ network-wired-activated-limited*
 network-wired-activated-locked*
 network-wireless-{xx}-{_/locked}*
 network-flightmode-{on/off}*
-battery-profile-{powersave/balanced/performance}*
+#battery-profile-{powersave/balanced/performance}*
 
 
 documentinfo*
@@ -142,10 +142,10 @@ preferences-desktop-virtual
 
 
 
-firewall-applet*
-firewall-applet-error*
-firewall-applet-panic*
+#firewall-applet*
+#firewall-applet-error*
+#firewall-applet-panic*
 firewall-applet-shields_up*
-firewall-config
-preferences-security-firewall
+#firewall-config
+#preferences-security-firewall
 yast-firewall
