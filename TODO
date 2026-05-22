@@ -65,11 +65,6 @@ input-keyboard-virtual-on*
 input-keyboard-virtual-show*
 preferences-desktop-display-randr*
 
-network-bluetooth*
-network-bluetooth-activated*
-network-bluetooth-activated-locked*
-network-bluetooth-inactive*
-wireless-network-bluetooth*
 preferences-system-bluetooth* (exists non-symbolic for non-tux)
 preferences-system-bluetooth-activated-symbolic
 preferences-system-bluetooth-battery-symbolic
@@ -95,7 +90,6 @@ network-wired-activated-locked*
 network-wireless-{xx}-{_/locked}*
 network-flightmode-{on/off}*
 battery-profile-{powersave/balanced/performance}*
-system-suspend-{inhibited/uninhibited}
 
 
 documentinfo*
