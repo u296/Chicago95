@@ -32,38 +32,18 @@ weather-snow-scattered-storm-{_/day/night}*
 weather-snow-storm-{_/day/night}*
 weather-storm-{day/night}*
 
-arrow-down*
 arrow-down-double*
-arrow-left*
 arrow-left-double*
-arrow-up*
 arrow-up-double*
-arrow-right*
 arrow-right-double*
 circular-arrow-shape*
-draw-arrow-back*
-draw-arrow-down*
-draw-arrow-forward*
-draw_arrow_up*
 draw-arrow-symbolic
 arrow-symbolic
 cursor-arrow-symbolic
 
-klipper-symbolic
-
 media-playback-playing*
 media-playback-paused*
 media-playback-stopped*
-
-configure*
-configure-shortcuts*
-configure-toolbars*
-configure_kile*
-configure_project*
-run-build-configure*
-settings-configure*
-
-window-pin* (exists non-symbolic for chi95 non-tux)
 
 plasmavault*
 notifications* (exists xfce one)
