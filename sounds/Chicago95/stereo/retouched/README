@@ -1,0 +1,7 @@
+These files were remade from the originals due to some sort of bug
+where the speakers would "clip" at the end of playback of any of 
+the sounds. I found that this could be solved simply by resampling
+the files to 48kHz and so I decided to do that. Also, the higher
+bandwidth allowed me to shrink the noise floor, so I used audacity's
+noise reduction function to reduce the background hissing in the 
+files. I also kept the original files in another directory.
