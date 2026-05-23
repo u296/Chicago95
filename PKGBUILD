@@ -7,6 +7,7 @@
 #       The Extras components are included in this package and are installed under `/usr/share/chicago95`.
 
 _basename=chicago95
+options=('!strip' '!debug')
 pkgname="${_basename}-theme-git"
 pkgver=r645.6b6ef76
 pkgrel=1
