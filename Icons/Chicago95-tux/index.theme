@@ -321,10 +321,10 @@ Size=32
 Context=Status
 Type=Fixed
 
-#[status/48]
-#Size=48
-#Context=Status
-#Type=Fixed
+[status/48]
+Size=48
+Context=Status
+Type=Fixed
 
 [status/64]
 Size=64
