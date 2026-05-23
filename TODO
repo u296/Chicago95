@@ -41,9 +41,9 @@ draw-arrow-symbolic
 arrow-symbolic
 cursor-arrow-symbolic
 
-media-playback-playing*
-media-playback-paused*
-media-playback-stopped*
+#media-playback-playing*
+#media-playback-paused*
+#media-playback-stopped*
 
 plasmavault*
 notifications* (exists xfce one)
@@ -53,7 +53,7 @@ notification-empty*
 notification-inactive*
 notification-progress-active
 notification-progress-inactive
-input-caps-on*
+#input-caps-on*
 input-gamepad*
 input-dialpad*
 input-virtual-keyboard*
